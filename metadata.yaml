@@ -1,0 +1,31 @@
+_repo: The-Camp-Fire-Girls-on-the-Open-Road--Or-Glorify-Work_36485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36485-h/images/cover.png
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegarde G.
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_issued: '2011-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcsh 'Occupations -- Juvenile fiction'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls on the Open Road; Or, Glorify Work
+url: http://www.gutenberg.org/ebooks/36485
