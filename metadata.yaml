@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2241'
     url: http://www.gutenberg.org/2009/agents/2241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36485#The-Camp-Fire-Girls-on-the-Open-Road--Or-Glorify-Work
 gutenberg_issued: '2011-06-21'
 gutenberg_type: Text
 identifiers:
